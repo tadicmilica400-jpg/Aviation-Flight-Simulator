@@ -1,0 +1,10 @@
+[AIRPORTS]
+Beograd Nikola Tesla,BEG,44.818,20.309
+Nis Konstantin Veliki,INI,43.337,21.853
+Podgorica Airport,TGD,42.359,19.252
+Sarajevo Airport,SJJ,43.824,18.331
+[FLIGHTS]
+BEG,INI,09:15,45
+BEG,TGD,10:30,60
+INI,SJJ,13:00,70
+TGD,BEG,18:20,65

@@ -1,0 +1,5 @@
+[AIRPORTS]
+Nikola Tesla, AAA,20.0,20.0
+Heatrhrow,BBB,10.0,10.0
+IDe GAS,CCC,11.0,12.0
+[FLIGHTS]
